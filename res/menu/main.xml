@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+  <item  android:id="@+id/speak1"  
+        android:title="TextToSpeech"/>  
+    <item  android:id="@+id/Location1"  
+        android:title="Rate This App"/>    
+
+</menu>
